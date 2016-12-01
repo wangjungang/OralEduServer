@@ -1,0 +1,271 @@
+[ 2016-10-16T14:39:15+08:00 ] 192.168.1.102 /OralEduServer/index.php/Home/UserHomepage/HomepageShow?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008729s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004103s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004175s ]
+SQL: SHOW COLUMNS FROM `oe_user` [ RunTime:0.0284s ]
+SQL: SELECT * FROM `oe_user` WHERE `user_moblie` = '12345678902' LIMIT 1   [ RunTime:0.0150s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001052s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001105s ]
+
+[ 2016-10-16T14:39:15+08:00 ] 192.168.1.102 /OralEduServer/index.php/Home/UserHomepage/HomepageShow?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000487s ]
+SQL: SHOW COLUMNS FROM `oe_user` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `oe_user` WHERE `user_moblie` = '12345678902' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000647s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000681s ]
+
+[ 2016-10-16T14:39:15+08:00 ] 192.168.1.102 /OralEduServer/index.php/Home/Contact/UserContact?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000578s ]
+SQL: SHOW COLUMNS FROM `oe_contacts` [ RunTime:0.0283s ]
+SQL: SELECT * FROM `oe_contacts` WHERE `user_moblie` = '12345678902'  [ RunTime:0.0149s ]
+SQL: SHOW COLUMNS FROM `oe_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `oe_user` WHERE `user_moblie` = '12345678901' LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `oe_user` WHERE `user_moblie` = '15510922836' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000467s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000541s ]
+
+[ 2016-10-16T14:40:04+08:00 ] 192.168.1.102 /OralEduServer/index.php/Home/Contact/UserContact?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003930s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003618s ]
+SQL: SHOW COLUMNS FROM `oe_contacts` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `oe_contacts` WHERE `user_moblie` = '12345678902'  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `oe_user` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `oe_user` WHERE `user_moblie` = '12345678901' LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `oe_user` WHERE `user_moblie` = '15510922836' LIMIT 1   [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003720s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003798s ]
+
+[ 2016-10-16T14:40:04+08:00 ] 192.168.1.102 /OralEduServer/index.php/Home/UserHomepage/HomepageShow?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003920s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003756s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003820s ]
+SQL: SHOW COLUMNS FROM `oe_user` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `oe_user` WHERE `user_moblie` = '12345678902' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000622s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000658s ]
+
+[ 2016-10-16T14:42:12+08:00 ] 192.168.1.102 /OralEduServer/index.php/Home/UserHomepage/HomepageShow?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003857s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003912s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003979s ]
+SQL: SHOW COLUMNS FROM `oe_user` [ RunTime:0.0134s ]
+SQL: SELECT * FROM `oe_user` WHERE `user_moblie` = '12345678902' LIMIT 1   [ RunTime:0.0012s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002787s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002846s ]
+
+[ 2016-10-16T14:42:12+08:00 ] 192.168.1.102 /OralEduServer/index.php/Home/Contact/UserContact?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003857s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003927s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003993s ]
+SQL: SHOW COLUMNS FROM `oe_contacts` [ RunTime:0.0094s ]
+SQL: SELECT * FROM `oe_contacts` WHERE `user_moblie` = '12345678902'  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `oe_user` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `oe_user` WHERE `user_moblie` = '12345678901' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `oe_user` WHERE `user_moblie` = '15510922836' LIMIT 1   [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001354s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001440s ]
+
+[ 2016-10-16T14:42:22+08:00 ] 192.168.1.102 /OralEduServer/index.php/Home/UserHomepage/HomepageShow?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000326s ]
+SQL: SHOW COLUMNS FROM `oe_user` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `oe_user` WHERE `user_moblie` = '12345678902' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000447s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000487s ]
+
+[ 2016-10-16T14:42:22+08:00 ] 192.168.1.102 /OralEduServer/index.php/Home/Contact/UserContact?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000727s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000816s ]
+SQL: SHOW COLUMNS FROM `oe_contacts` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `oe_contacts` WHERE `user_moblie` = '12345678902'  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `oe_user` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `oe_user` WHERE `user_moblie` = '12345678901' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `oe_user` WHERE `user_moblie` = '15510922836' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000441s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000473s ]
+
+[ 2016-10-16T14:42:26+08:00 ] 192.168.1.102 /OralEduServer/index.php/Home/UserHomepage/HomepageShow?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+SQL: SHOW COLUMNS FROM `oe_user` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `oe_user` WHERE `user_moblie` = '12345678902' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000375s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000403s ]
+
+[ 2016-10-16T14:42:26+08:00 ] 192.168.1.102 /OralEduServer/index.php/Home/Contact/UserContact?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000457s ]
+SQL: SHOW COLUMNS FROM `oe_contacts` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `oe_contacts` WHERE `user_moblie` = '12345678902'  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `oe_user` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `oe_user` WHERE `user_moblie` = '12345678901' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `oe_user` WHERE `user_moblie` = '15510922836' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000352s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000377s ]
+
+[ 2016-10-16T14:43:42+08:00 ] 192.168.1.102 /OralEduServer/index.php/Home/Contact/UserContact?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003962s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003847s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003917s ]
+SQL: SHOW COLUMNS FROM `oe_contacts` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `oe_contacts` WHERE `user_moblie` = '12345678902'  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `oe_user` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `oe_user` WHERE `user_moblie` = '12345678901' LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `oe_user` WHERE `user_moblie` = '15510922836' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002718s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002778s ]
+
+[ 2016-10-16T14:43:42+08:00 ] 192.168.1.102 /OralEduServer/index.php/Home/UserHomepage/HomepageShow?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004008s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003848s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003916s ]
+SQL: SHOW COLUMNS FROM `oe_user` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `oe_user` WHERE `user_moblie` = '12345678902' LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000668s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000713s ]
+
+[ 2016-10-16T14:43:47+08:00 ] 192.168.1.102 /OralEduServer/index.php/Home/Userspage/HomepageShow?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000505s ]
+SQL: SHOW COLUMNS FROM `oe_user` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `oe_user` WHERE `user_moblie` = '15510922836' LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000621s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000664s ]
+
+[ 2016-10-16T14:43:49+08:00 ] 192.168.1.102 /OralEduServer/index.php/Home/UserHomepage/HomepageShow?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000242s ]
+SQL: SHOW COLUMNS FROM `oe_user` [ RunTime:0.0101s ]
+SQL: SELECT * FROM `oe_user` WHERE `user_moblie` = '12345678902' LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000624s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000669s ]
+
+[ 2016-10-16T14:43:49+08:00 ] 192.168.1.102 /OralEduServer/index.php/Home/Contact/UserContact?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000381s ]
+SQL: SHOW COLUMNS FROM `oe_contacts` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `oe_contacts` WHERE `user_moblie` = '12345678902'  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `oe_user` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `oe_user` WHERE `user_moblie` = '12345678901' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `oe_user` WHERE `user_moblie` = '15510922836' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000468s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000497s ]
+
+[ 2016-10-16T14:43:50+08:00 ] 192.168.1.102 /OralEduServer/index.php/Home/Userspage/HomepageShow?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000454s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000497s ]
+SQL: SHOW COLUMNS FROM `oe_user` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `oe_user` WHERE `user_moblie` = '12345678901' LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000754s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000808s ]
+
+[ 2016-10-16T14:43:53+08:00 ] 192.168.1.102 /OralEduServer/index.php/Home/Contact/UserContact?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000328s ]
+SQL: SHOW COLUMNS FROM `oe_contacts` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `oe_contacts` WHERE `user_moblie` = '12345678902'  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `oe_user` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `oe_user` WHERE `user_moblie` = '12345678901' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `oe_user` WHERE `user_moblie` = '15510922836' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000452s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000480s ]
+
+[ 2016-10-16T14:43:53+08:00 ] 192.168.1.102 /OralEduServer/index.php/Home/UserHomepage/HomepageShow?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000325s ]
+SQL: SHOW COLUMNS FROM `oe_user` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `oe_user` WHERE `user_moblie` = '12345678902' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000513s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000543s ]
+

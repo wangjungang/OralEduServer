@@ -1,0 +1,41 @@
+[ 2016-08-02T09:39:21+08:00 ] 127.0.0.1 /OralEduServer/index.php/Home/Contact/UserContact?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000954s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000902s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000948s ]
+SQL: SHOW COLUMNS FROM `oe_contacts` [ RunTime:0.1136s ]
+SQL: SELECT * FROM `oe_contacts` WHERE `user_moblie` = '15510922836'  [ RunTime:0.0473s ]
+SQL: SHOW COLUMNS FROM `oe_user` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `oe_user` WHERE `user_moblie` = '12345678901' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000736s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000780s ]
+
+[ 2016-08-02T09:39:21+08:00 ] 127.0.0.1 /OralEduServer/index.php/Home/UserHomepage/HomepageShow?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000844s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002160s ]
+SQL: SHOW COLUMNS FROM `oe_user` [ RunTime:0.1137s ]
+SQL: SELECT * FROM `oe_user` WHERE `user_moblie` = '15510922836' LIMIT 1   [ RunTime:0.0477s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004380s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004507s ]
+
+[ 2016-08-02T09:39:21+08:00 ] 127.0.0.1 /OralEduServer/index.php/Home/UserHomepage/HomepageShow?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001018s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000963s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001043s ]
+SQL: SHOW COLUMNS FROM `oe_user` [ RunTime:0.1132s ]
+SQL: SELECT * FROM `oe_user` WHERE `user_moblie` = '15510922836' LIMIT 1   [ RunTime:0.0474s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004128s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004276s ]
+
